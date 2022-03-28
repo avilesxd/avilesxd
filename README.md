@@ -13,5 +13,3 @@
 <a href="https://instagram.com/avilesxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avilesxd" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCYPsgamO7XeWOrXriOpJBqw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="igns" height="30" width="40" /></a>
 </p>
-
-<p> <img align="center" src="https://github -readme-stats.vercel.app/api?username=avilesxd&show_icons=true&locale=en" alt="avilesxd" /></p>

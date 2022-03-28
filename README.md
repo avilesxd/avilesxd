@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://fb.com/ignacio.avilescardenasso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ignacio.avilescardenasso" height="30" width="40" /></a>
 <a href="https://instagram.com/avilesxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avilesxd" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/asdad22222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="asdad22222" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCYPsgamO7XeWOrXriOpJBqw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="IgnS" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avilesxd&show_icons=true&locale=en&layout=compact" alt="avilesxd" /></p>

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ignacio Avilés</h1>
 <h3 align="center">A future developer from Arica, Chile</h3>
 
-- 🔭 I’m currently working on [create my own webite](https://ignacioaviles.000webhostapp.com/)
+- 🔭 I’m currently working on [create my own webite](https://avilesxd.github.io/)
 
 - 📫 How to reach me **nacho72001@gmail.com**
 

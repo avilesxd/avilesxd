@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **nacho72001@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social media:</h3>
 <p align="left">
 <a href="https://twitter.com/ignacio27072001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ignacio27072001" height="30" width="40" /></a>
 <a href="https://fb.com/ignacio.avilescardenasso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ignacio.avilescardenasso" height="30" width="40" /></a>

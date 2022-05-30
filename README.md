@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ignacio Aviles</h1>
-<h3 align="center">A future developer from Arica, Chile</h3>
+<h3 align="center">I am from the Computer Engineering career</h3>
 
 - 🔭 I’m currently working on [create my own website](https://avilesxd.github.io/blog)
 

@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ignacio Aviles</h1>
-<h3 align="center">I am from the Computer Engineering career</h3>
 
 - 📫 How to reach me **nacho72001@gmail.com**
 

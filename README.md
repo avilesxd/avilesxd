@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ignacio Aviles</h1>
 <h3 align="center">I am from the Computer Engineering career</h3>
 
-- 🔭 I’m currently working on [create my own website](https://avilesxd.github.io/blog)
-
 - 📫 How to reach me **nacho72001@gmail.com**
 
 <h3 align="left">Social media:</h3>

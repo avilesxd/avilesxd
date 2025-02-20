@@ -4,17 +4,23 @@ Hello everyone! My name is Ignacio Avilés, and I am an enthusiastic university 
 
 ## 🌐 Socials
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ignacio.avilescardenasso) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avilesxd) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/avilesxd) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22341235) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@igns27) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/chle_igns) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@igns27)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ignacio.avilescardenasso "Go to my Facebook account") [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avilesxd "Go to my Instagram account") [![Twitter](https://img.shields.io/twitter/follow/Ignacio27072001)](https://twitter.com/Ignacio27072001 "Go to my Twitter account") [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@igns27 "Go to my TikTok account") [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/chle_igns "Go to my Twitch account") [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@igns27 "Go to my YouTube account") [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/avilesxd "Go to my Reddit account") [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22341235 "Go to my StackOverflow account")
+
+## Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=avilesxd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=avilesxd&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=avilesxd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avilesxd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=avilesxd&theme=dark&hide_border=false)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avilesxd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=avilesxd&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=avilesxd&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 

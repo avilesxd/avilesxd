@@ -16,9 +16,11 @@ Hello everyone! My name is Ignacio Avilés, and I am an enthusiastic university 
 
 ## 📊 GitHub Stats
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avilesxd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avilesxd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avilesxd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=avilesxd&theme=dark&hide_border=false)
 
 ### 🔝 Top Contributed Repo
 

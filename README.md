@@ -8,10 +8,10 @@ Hello everyone! My name is Ignacio Avilés, and I am an enthusiastic university 
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Space Invader 2D Game](https://avilesxd.vercel.app/aliens-invasion)
 - [Getting started with Node.js and Express](https://avilesxd.vercel.app/getting-started-with-node-js-and-express)
 - [MySQL: A Beginner&#39;s Guide](https://avilesxd.vercel.app/mysql-for-beginner)
 - [Introduction to Docker for Developers](https://avilesxd.vercel.app/introduction-to-docker-for-developers)
-- [Introduction to TypeScript: The Power of Static Typing in JavaScript](https://avilesxd.vercel.app/introduction-to-typescript)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats

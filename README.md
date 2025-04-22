@@ -20,10 +20,6 @@ Hello everyone! My name is Ignacio Avilés, and I am an enthusiastic university 
 
 ![GitHub Stats][GitHub-Stats-Link]
 
-### 🔝 Top Contributed Repo
-
-![GitHub Contributor Stats][GitHub-Contributor-Stats-Link]
-
 ---
 
 ## 💰 You can help me by Donating
@@ -50,6 +46,5 @@ Hello everyone! My name is Ignacio Avilés, and I am an enthusiastic university 
 [StackOverflow-Account-Link]: https://stackoverflow.com/users/22341235 "Go to my StackOverflow account"
 [GitHub-Most-Used-Languages-Link]: https://github-readme-stats.vercel.app/api/top-langs/?username=avilesxd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact "GitHub Most Used Languages"
 [GitHub-Stats-Link]: https://github-readme-stats.vercel.app/api?username=avilesxd&theme=dark&hide_border=false&include_all_commits=false&count_private=false "GitHub Stats"
-[GitHub-Contributor-Stats-Link]: https://github-contributor-stats.vercel.app/api?username=avilesxd&limit=5&theme=dark&combine_all_yearly_contributions=true "GitHub Top Contributed Repo"
 [PayPal-Link]: https://paypal.me/avilesxd "Can you donating PayPal"
 [KoFi-Link]: https://ko-fi.com/avilesxd "Can you donating KoFi"

@@ -20,12 +20,6 @@ Hello everyone! My name is Ignacio Avilés, and I am an enthusiastic university 
 
 ![GitHub Stats][GitHub-Stats-Link]
 
----
-
-## 💰 You can help me by Donating
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)][PayPal-Link] [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)][KoFi-Link]
-
 <!-- Badges and links -->
 [Facebook-Account-Badge]: https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white
 [Instagram-Account-Badge]: https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white
@@ -46,5 +40,3 @@ Hello everyone! My name is Ignacio Avilés, and I am an enthusiastic university 
 [StackOverflow-Account-Link]: https://stackoverflow.com/users/22341235 "Go to my StackOverflow account"
 [GitHub-Most-Used-Languages-Link]: https://github-readme-stats.vercel.app/api/top-langs/?username=avilesxd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact "GitHub Most Used Languages"
 [GitHub-Stats-Link]: https://github-readme-stats.vercel.app/api?username=avilesxd&theme=dark&hide_border=false&include_all_commits=false&count_private=false "GitHub Stats"
-[PayPal-Link]: https://paypal.me/avilesxd "Can you donating PayPal"
-[KoFi-Link]: https://ko-fi.com/avilesxd "Can you donating KoFi"

@@ -6,7 +6,7 @@ Hello everyone! My name is Ignacio Avilés, and I am an enthusiastic university 
 
 [![Facebook][Facebook-Account-badge]][Facebook-Account-Link] [![Instagram][Instagram-Account-Badge]][Instagram-Account-Link] [![X][X-Account-Badge]][X-Account-Link] [![TikTok][TikTok-Account-Badge]][TikTok-Account-Link] [![Twitch][Twitch-Account-Badge]][Twitch-Account-Link] [![YouTube][YouTube-Account-Badge]][YouTube-Account-Link] [![Reddit][Reddit-Account-Badge]][Reddit-Account-Link] [![Stack Overflow][StackOverflow-Account-Badge]][StackOverflow-Account-Link]
 
-## Blog posts
+## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Space Invader 2D Game](https://avilesxd.vercel.app/aliens-invasion)
 - [Getting started with Node.js and Express](https://avilesxd.vercel.app/getting-started-with-node-js-and-express)

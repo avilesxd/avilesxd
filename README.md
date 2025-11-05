@@ -13,6 +13,8 @@ I'm a passionate **Computer Science Execution Engineering** student with an insa
 - 🌱 Always learning new technologies and best practices
 - 🎯 Goal-oriented and detail-focused developer
 - 📝 I write about my learning journey on my blog
+- 🏢 University projects at [PersonalUniversityProjects](https://github.com/PersonalUniversityProjects)
+- 👨‍💻 Open source projects at [CodeWaveInnovation](https://github.com/CodeWaveInnovation)
 
 ## 🛠️ Tech Stack
 

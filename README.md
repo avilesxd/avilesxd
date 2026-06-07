@@ -47,10 +47,8 @@ I'm a passionate **Computer Engineering student** student with an insatiable cur
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Space Invader 2D Game](https://avilesxd.vercel.app/aliens-invasion)
-- [Getting started with Node.js and Express](https://avilesxd.vercel.app/getting-started-with-node-js-and-express)
-- [MySQL: A Beginner&#39;s Guide](https://avilesxd.vercel.app/mysql-for-beginner)
-- [Introduction to Docker for Developers](https://avilesxd.vercel.app/introduction-to-docker-for-developers)
+- [bienvenido](https://avilesxd.vercel.app/blog/bienvenido)
+- [Cómo construí mi blog con Next.js y Obsidian](https://avilesxd.vercel.app/blog/cmo-constru-mi-blog-con-nextjs-y-obsidian)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ **[Read more posts on my blog](https://avilesxd.vercel.app)**

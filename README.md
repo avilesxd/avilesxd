@@ -47,8 +47,10 @@ I'm a passionate **Computer Engineering student** student with an insatiable cur
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [bienvenido](https://avilesxd.vercel.app/blog/bienvenido)
-- [Cómo construí mi blog con Next.js y Obsidian](https://avilesxd.vercel.app/blog/cmo-constru-mi-blog-con-nextjs-y-obsidian)
+- [El problema con los submódulos](https://avilesxd.vercel.app/blog/github-actions-para-sincronizar-obsidian-con-tu-blog)
+- [Qué es PARA](https://avilesxd.vercel.app/blog/mi-sistema-pkm-con-zettelkasten-y-para-en-obsidian)
+- [El cambio de modelo mental](https://avilesxd.vercel.app/blog/nextjs-app-router-lo-que-nadie-te-explica)
+- [El argumento que más me convenció](https://avilesxd.vercel.app/blog/typescript-por-qu-lo-uso-en-todo-proyecto)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ **[Read more posts on my blog](https://avilesxd.vercel.app)**

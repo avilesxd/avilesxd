@@ -47,10 +47,10 @@ I'm a passionate **Computer Engineering student** student with an insatiable cur
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Descargar Videos de YouTube con Python](https://avilesxd.vercel.app/blog/descargar-videos-de-youtube-con-python)
-- [Extensiones de VS Code](https://avilesxd.vercel.app/blog/extensiones-de-vs-code)
-- [Generador de Contraseñas con Python](https://avilesxd.vercel.app/blog/generador-de-contraseas-con-python)
-- [Reloj Digital con Python](https://avilesxd.vercel.app/blog/reloj-digital-con-python)
+- [Alien Invasion: juego arcade 2D desarrollado en Python](https://avilesxd.vercel.app/blog/alien-invasion-2d-game)
+- [Cómo crear un auto clicker en Python para Cookie Clicker](https://avilesxd.vercel.app/blog/auto-clicker-para-cookie-clicker)
+- [Cómo instalar osu! Lazer en Linux con AppImage](https://avilesxd.vercel.app/blog/cmo-instalar-osu-lazer-en-linux)
+- [Docker para desarrolladores: qué es y cómo empezar](https://avilesxd.vercel.app/blog/introduccin-a-docker-para-desarrolladores)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ **[Read more posts on my blog](https://avilesxd.vercel.app)**

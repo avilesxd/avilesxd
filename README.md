@@ -47,10 +47,10 @@ I'm a passionate **Computer Engineering student** student with an insatiable cur
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [La estética de la &#39;AI Era UI&#39; con Shadcn y Tailwind: Construyendo herramientas modernas](https://avilesxd.vercel.app/blog/estetica-ai-era-ui-shadcn-tailwind)
 - [Grok 4.5 vs Claude 3 Opus: ¿Es SpaceXAI el nuevo líder en razonamiento de IA?](https://avilesxd.vercel.app/blog/spacexai-lanza-grok-45)
 - [IA Agéntica: El siguiente salto en la evolución de la Inteligencia Artificial](https://avilesxd.vercel.app/blog/ia-agentica-consolidacion)
-- [Alien Invasion: juego arcade 2D desarrollado en Python](https://avilesxd.vercel.app/blog/alien-invasion-2d-game)
-- [Cómo crear un auto clicker en Python para Cookie Clicker](https://avilesxd.vercel.app/blog/auto-clicker-para-cookie-clicker)
+- [Cómo organizo mis notas con Zettelkasten y PARA en Obsidian](https://avilesxd.vercel.app/blog/mi-sistema-pkm-con-zettelkasten-y-para-en-obsidian)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ **[Read more posts on my blog](https://avilesxd.vercel.app)**

@@ -47,10 +47,10 @@ I'm a passionate **Computer Engineering student** student with an insatiable cur
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Opus 5: qué cambia para los que lo usamos desde la API](https://avilesxd.vercel.app/blog/claude-opus-5-que-cambia-para-developers)
+- [Cómo usar Ollama para correr LLMs localmente: guía completa para developers](https://avilesxd.vercel.app/blog/como-usar-ollama-para-correr-llms-localmente)
 - [La estética de la &#39;AI Era UI&#39; con Shadcn y Tailwind: Construyendo herramientas modernas](https://avilesxd.vercel.app/blog/estetica-ai-era-ui-shadcn-tailwind)
 - [Grok 4.5 vs Claude 3 Opus: ¿Es SpaceXAI el nuevo líder en razonamiento de IA?](https://avilesxd.vercel.app/blog/spacexai-lanza-grok-45)
-- [IA Agéntica: El siguiente salto en la evolución de la Inteligencia Artificial](https://avilesxd.vercel.app/blog/ia-agentica-consolidacion)
-- [Cómo organizo mis notas con Zettelkasten y PARA en Obsidian](https://avilesxd.vercel.app/blog/mi-sistema-pkm-con-zettelkasten-y-para-en-obsidian)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ **[Read more posts on my blog](https://avilesxd.vercel.app)**

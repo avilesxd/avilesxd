@@ -10,7 +10,7 @@ I'm a passionate **Computer Engineering student** student with an insatiable cur
 
 - 🔭 I'm currently working on **my blog site of Notes, tutorials, and articles on technology, programming, web development, and software best practices.**
 - 🌱 I'm currently learning **new technologies and best practices.**
-- 📝 I regularly write articles on **[https://avilesxd.vercel.app](https://avilesxd.vercel.app)**
+- 📝 I regularly write articles on **[https://avilesxd.dev](https://avilesxd.dev)**
 - 🏢 University projects at [PersonalUniversityProjects](https://github.com/PersonalUniversityProjects)
 - 👨‍💻 Open source projects at [CodeWaveInnovation](https://github.com/CodeWaveInnovation)
 

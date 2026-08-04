@@ -8,7 +8,7 @@
 
 I'm a passionate **Computer Engineering student** student with an insatiable curiosity for technology and software development. I love turning ideas into code and exploring the endless possibilities that the computing world has to offer.
 
-- 🔭 I'm currently working on **an internal web system (professional practice) and a mobile application (thesis project), both running until July 2026.**
+- 🔭 I'm currently working on **my blog site of Notes, tutorials, and articles on technology, programming, web development, and software best practices.**
 - 🌱 I'm currently learning **new technologies and best practices.**
 - 📝 I regularly write articles on **[https://avilesxd.vercel.app](https://avilesxd.vercel.app)**
 - 🏢 University projects at [PersonalUniversityProjects](https://github.com/PersonalUniversityProjects)

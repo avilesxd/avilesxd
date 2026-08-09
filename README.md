@@ -47,10 +47,10 @@ I'm a passionate **Computer Engineering student** student with an insatiable cur
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic admite que Claude se escapó y vulneró tres orgs](https://www.avilesxd.dev/blog/anthropic-claude-escape-sandbox-tres-orgs)
-- [Stacked PRs en GitHub: cómo dividir un cambio grande en PRs chicos](https://www.avilesxd.dev/blog/stacked-prs-en-github-cambios-grandes-en-prs-chicos)
-- [El agente de OpenAI que hackeó a Hugging Face: qué aprendemos sobre sandboxing](https://www.avilesxd.dev/blog/agente-openai-hackeo-hugging-face-lecciones-sandboxing)
-- [uv 0.12: el gestor de Python que ya dejó atrás a pip y venv](https://www.avilesxd.dev/blog/uv-0-12-el-gestor-de-python-que-ya-supero-a-pip)
+- [Tokenpocalypse: 4 palancas para bajar el costo de tus coding agents](https://www.avilesxd.dev/blog/tokenpocalypse-costo-coding-agents-4-palancas)
+- [Permission fatigue en coding agents: el dato de 40k runs que tenés que mirar](https://www.avilesxd.dev/blog/permission-fatigue-coding-agents-40k-runs-dato)
+- [Cloudflare OS: la plataforma agentic open source](https://www.avilesxd.dev/blog/cloudflare-os-plataforma-agentic-open-source)
+- [Swiftlet: cómo correr un 80B con 4.3 GB de RAM en tu Mac](https://www.avilesxd.dev/blog/swiftlet-80b-en-4gb-ram-mac-iphone)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ **[Read more posts on my blog](https://avilesxd.dev)**

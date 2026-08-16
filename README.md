@@ -47,10 +47,10 @@ I'm a passionate **Computer Engineering student** student with an insatiable cur
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tokenpocalypse: 4 palancas para bajar el costo de tus coding agents](https://www.avilesxd.dev/blog/tokenpocalypse-costo-coding-agents-4-palancas)
-- [Permission fatigue en coding agents: el dato de 40k runs que tenés que mirar](https://www.avilesxd.dev/blog/permission-fatigue-coding-agents-40k-runs-dato)
-- [Cloudflare OS: la plataforma agentic open source](https://www.avilesxd.dev/blog/cloudflare-os-plataforma-agentic-open-source)
-- [Swiftlet: cómo correr un 80B con 4.3 GB de RAM en tu Mac](https://www.avilesxd.dev/blog/swiftlet-80b-en-4gb-ram-mac-iphone)
+- [Cerebras + GPT-5.6 Sol Ultrafast: 750 tokens por segundo que cambian la UX](https://www.avilesxd.dev/blog/cerebras-gpt-5-6-sol-ultrafast-750-tokens-segundo)
+- [Graft: capa de contexto para coding agents con 42% menos tokens](https://www.avilesxd.dev/blog/graft-capa-contexto-coding-agents-42-menos-tokens)
+- [Anthropic CRI: medir razonamiento conceptual sin ground truth](https://www.avilesxd.dev/blog/anthropic-conceptual-reasoning-index-cri-2026)
+- [Qwen3.8-2.4T-A95B: el open-weights más grande que existe](https://www.avilesxd.dev/blog/qwen3-8-2-4t-a95b-modelo-open-weights-mas-grande)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ **[Read more posts on my blog](https://avilesxd.dev)**

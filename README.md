@@ -47,10 +47,10 @@ I'm a passionate **Computer Engineering student** student with an insatiable cur
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mojo 1.0 Apache 2.0: la apuesta heterogénea de Modular post-Qualcomm](https://www.avilesxd.dev/blog/mojo-1-0-apache-2-0-modular-apuesta-heterogenea)
+- [Linux 7.3: cómo el kernel aprendió a sobrevivir sin VRAM](https://www.avilesxd.dev/blog/linux-7-3-vram-overcommit-gpu-memory-management)
 - [Cerebras + GPT-5.6 Sol Ultrafast: 750 tokens por segundo que cambian la UX](https://www.avilesxd.dev/blog/cerebras-gpt-5-6-sol-ultrafast-750-tokens-segundo)
 - [Graft: capa de contexto para coding agents con 42% menos tokens](https://www.avilesxd.dev/blog/graft-capa-contexto-coding-agents-42-menos-tokens)
-- [Anthropic CRI: medir razonamiento conceptual sin ground truth](https://www.avilesxd.dev/blog/anthropic-conceptual-reasoning-index-cri-2026)
-- [Qwen3.8-2.4T-A95B: el open-weights más grande que existe](https://www.avilesxd.dev/blog/qwen3-8-2-4t-a95b-modelo-open-weights-mas-grande)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ **[Read more posts on my blog](https://avilesxd.dev)**

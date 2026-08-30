@@ -47,10 +47,10 @@ I'm a passionate **Computer Engineering student** student with an insatiable cur
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mojo 1.0 Apache 2.0: la apuesta heterogénea de Modular post-Qualcomm](https://www.avilesxd.dev/blog/mojo-1-0-apache-2-0-modular-apuesta-heterogenea)
-- [Linux 7.3: cómo el kernel aprendió a sobrevivir sin VRAM](https://www.avilesxd.dev/blog/linux-7-3-vram-overcommit-gpu-memory-management)
-- [Cerebras + GPT-5.6 Sol Ultrafast: 750 tokens por segundo que cambian la UX](https://www.avilesxd.dev/blog/cerebras-gpt-5-6-sol-ultrafast-750-tokens-segundo)
-- [Graft: capa de contexto para coding agents con 42% menos tokens](https://www.avilesxd.dev/blog/graft-capa-contexto-coding-agents-42-menos-tokens)
+- [Anthropic MHS: el estándar para agentes en hardware físico](https://www.avilesxd.dev/blog/anthropic-mhs-model-hardware-standard-agentes)
+- [Seis meses sin escribir código a mano: lo que aprendí](https://www.avilesxd.dev/blog/seis-meses-codificando-solo-con-agentes-lecciones)
+- [WebMCP: el estándar web para que agentes usen tu sitio sin scrapear](https://www.avilesxd.dev/blog/webmcp-estandar-web-para-que-agentes-usen-tu-sitio)
+- [Mac Studio M5 Ultra: LLMs frontier corriendo en tu escritorio](https://www.avilesxd.dev/blog/mac-studio-m5-ultra-correr-llms-frontier-en-casa)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ **[Read more posts on my blog](https://avilesxd.dev)**

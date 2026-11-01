@@ -47,10 +47,10 @@ I'm a passionate **Computer Engineering student** student with an insatiable cur
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic MHS: el estándar para agentes en hardware físico](https://www.avilesxd.dev/blog/anthropic-mhs-model-hardware-standard-agentes)
-- [Seis meses sin escribir código a mano: lo que aprendí](https://www.avilesxd.dev/blog/seis-meses-codificando-solo-con-agentes-lecciones)
-- [WebMCP: el estándar web para que agentes usen tu sitio sin scrapear](https://www.avilesxd.dev/blog/webmcp-estandar-web-para-que-agentes-usen-tu-sitio)
-- [Mac Studio M5 Ultra: LLMs frontier corriendo en tu escritorio](https://www.avilesxd.dev/blog/mac-studio-m5-ultra-correr-llms-frontier-en-casa)
+- [Anthropic MHS: el estándar para agentes en hardware físico](https://avilesxd.dev/blog/anthropic-mhs-model-hardware-standard-agentes)
+- [Seis meses sin escribir código a mano: lo que aprendí](https://avilesxd.dev/blog/seis-meses-codificando-solo-con-agentes-lecciones)
+- [WebMCP: el estándar web para que agentes usen tu sitio sin scrapear](https://avilesxd.dev/blog/webmcp-estandar-web-para-que-agentes-usen-tu-sitio)
+- [Mac Studio M5 Ultra: LLMs frontier corriendo en tu escritorio](https://avilesxd.dev/blog/mac-studio-m5-ultra-correr-llms-frontier-en-casa)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ **[Read more posts on my blog](https://avilesxd.dev)**

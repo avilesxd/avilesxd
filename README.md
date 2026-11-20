@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Computer Engineering student** student with an insatiable curiosity for technology and software development. I love turning ideas into code and exploring the endless possibilities that the computing world has to offer.
+I am passionate about **computer engineering** with an insatiable curiosity about technology and software development. I love turning ideas into code and exploring the infinite possibilities that the world of computing has to offer.
 
 - 🔭 I'm currently working on **my blog site of Notes, tutorials, and articles on technology, programming, web development, and software best practices.**
 - 🌱 I'm currently learning **new technologies and best practices.**
